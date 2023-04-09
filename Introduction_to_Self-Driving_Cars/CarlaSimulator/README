@@ -1,0 +1,14 @@
+CARLA Simulator
+===============
+
+Thanks for downloading CARLA!
+
+Execute "CarlaUE4.sh" to launch CARLA.
+
+For more details and running options please refer to our online documentation
+
+http://carla.readthedocs.io
+
+start the CARLA simulator at a 30hz fixed time-step:
+
+./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30
